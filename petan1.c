@@ -1,0 +1,11 @@
+#include<stdio.h>
+main()
+{
+	printf("------");
+	printf("|\t|\n");
+	printf("|\t|\n");
+	printf("|tanisha|\t\n");
+	printf("|\t|\n");
+	printf("|\t|\n");
+	printf("------");
+}
